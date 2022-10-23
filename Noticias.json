@@ -1,44 +1,67 @@
+
 [
-                {
-                  "id":1,
-                  "Tema": "Defensa del consumidor",
-                  "Titulo":"Noticia sobre consumidor",
-                  "Descripcion":"¿Qué dice la ley 24240 de defensa del consumidor? Qué dice la La Ley Nacional N.º 24240 tiene por objeto la defensa del consumidor o usuario. Se denomina “consumidor” a la persona física o jurídica que adquiere o utiliza, en forma gratuita u onerosa, bienes o servicios como destinatario final, en beneficio propio o de su grupo familiar o social.",
-                  "imagen":"https://lucianapeisina.github.io/noticias/consumidor-%201.jpg"
-                },
-                {
-                  "id":2,
-                  "Tema": "Derecho previsional",
-                  "Titulo":"Noticia sobre el derecho provisional",
-                  "Descripcion":"El derecho provisional dice sobre un reciente fallo en la corte en el caso de un jubilado al que se le descontó injustamente un haber, la cámara falló a favor de éste con la justificacion de que los adultos mayores tienen una mayor protección al ser hipervulnerables",
-                  "imagen":"https://lucianapeisina.github.io/noticias/Previsional-1.jpg"
-                },
-                {
-                  "id":3,
-                  "Tema": "Accidentes de transito",
-                  "Titulo":"Noticia sobre accidente de transito",
-                  "Descripcion":"Otro cliente.",
-                  "imagen":"https://lucianapeisina.github.io/noticias/accidente%20-1.jpg"
-                },
-                {
-                  "id": 4,
-                  "Tema": "Defensa del consumidor",
-                  "Titulo":"Fallo sobre un consumidor 2",
-                  "Descripcion":" Ley Nacional N.º 24240 tiene por objeto la defensa del consumidor o usuario. Se denomina “consumidor” a la persona física o jurídica que adquiere o utiliza, en forma gratuita u onerosa, bienes o servicios como destinatario final, en beneficio propio o de su grupo familiar o social. ",
-                  "imagen":"https://lucianapeisina.github.io/noticias/consumidor-2.jpg"
-                },
-                {
-                  "id":5,
-                  "Tema": "Accidentes de transito",
-                  "Titulo":"Un nuevo accidente de transito deja a la camara dictar jurisprudencia",
-                  "Descripcion":"En el pasado 8 de abril se dicto una resolucion que cambiaba los parametros de ",
-                  "imagen":"https://lucianapeisina.github.io/noticias/accidente%20-2.jpg"
-                },
-                {
-                  "id":3,
-                  "Tema": "Derecho previsional",
-                  "Titulo":"Los jubilados se ven perjudicados por los impuestos",
-                  "Descripcion":"Otro cliente.",
-                  "imagen":"https://lucianapeisina.github.io/noticias/previsional%20-%202.jpg"
-                }
-              ]
+  {
+    "id":1,
+    "Tema":"Defensa del consumidor",
+    "Titulo":"Noticia sobre consumidor",
+    "Descripcion":"¿Qué dice la ley 24240 de defensa del consumidor? Qué dice la La Ley Nacional N.º 24240 tiene por objeto la defensa del consumidor o usuario. Se denomina “consumidor” a la persona física o jurídica que adquiere o utiliza, en forma gratuita u onerosa, bienes o servicios como destinatario final, en beneficio propio o de su grupo familiar o social.",
+    "imagen":"https://lucianapeisina.github.io/noticias/consumidor-%201.jpg"
+  },
+  {
+    "id":2,
+    "Tema":"Derecho previsional",
+    "Titulo":"Noticia sobre el derecho provisional",
+    "Descripcion":"El derecho provisional dice sobre un reciente fallo en la corte en el caso de un jubilado al que se le descontó injustamente un haber, la cámara falló a favor de éste con la justificacion de que los adultos mayores tienen una mayor protección al ser hipervulnerables",
+    "imagen":"https://lucianapeisina.github.io/noticias/Previsional-1.jpg"
+  },
+  {
+    "id":3,
+    "Tema":"Accidentes de transito",
+    "Titulo":"Noticia sobre accidente de transito",
+    "Descripcion":"es un hecho eventual, producido como consecuencia del tránsito vehicular en el que interviene, por lo menos, un vehículo, cuyo resultado produce lesiones o muertes de las personas y/o daños en las cosa",
+    "imagen":"https://lucianapeisina.github.io/noticias/accidente%20-1.jpg"
+  },
+  {
+    "id": 4,
+    "Tema":"Defensa del consumidor",
+    "Titulo":"Fallo sobre un consumidor 2",
+    "Descripcion":"Ley Nacional N.º 24240 tiene por objeto la defensa del consumidor o usuario. Se denomina “consumidor” a la persona física o jurídica que adquiere o utiliza, en forma gratuita u onerosa, bienes o servicios como destinatario final, en beneficio propio o de su grupo familiar o social. ",
+    "imagen":"https://lucianapeisina.github.io/noticias/consumidor-2.jpg"
+  },
+  {
+    "id":5,
+    "Tema":"Accidentes de transito",
+    "Titulo":"Un nuevo accidente de transito deja a la camara dictar jurisprudencia",
+    "Descripcion":"La compensación de culpas no exime ni excusa en el proceso penal, por lo cual si el vehículo conducido por el damnificado no observó los reglamentos de tránsito - exceso de velocidad en el cruce sin respetar prioridad de paso - ello no exonera de responsabilidad al embistente, pues un cruce de bocacalles no señalizado es una contingencia que debe estar dentro de las previsiones de cualquier conductor prevenido y la prioridad de paso no autoriza a cruzar una bocacalle a una velocidad que duplique la permitida por el artículo 35 de la Ordenanza Municipal Nro. 33.243 - 20 km/h -. ",
+    "imagen":"https://lucianapeisina.github.io/noticias/accidente%20-2.jpg"
+  },
+  {
+    "id":6,
+    "Tema":"Derecho previsional",
+    "Titulo":"En Argentina los haberes previsionales se vieron muy perjudicados a causa de todos los procesos inflacionarios vividos en los últimos 30 años.  Es importante que usted logre obtener una proporcionalidad entre los aportes realizados mientras usted trabajaba y el haber jubilatorio percibido en la actualidad",
+    "Descripcion":"Otro cliente.",
+    "imagen":"https://lucianapeisina.github.io/noticias/previsional%20-%202.jpg"
+  },
+  {
+    "id":7,
+    "Tema":"Accidentes de transito",
+    "Titulo":"El daño moral cuando la vida es quitada en un choque",
+    "Descripcion":"Afectación de los sentimientos profundos del damnificado, por haberse perturbado su tranquilidad y ritmo normal de vida. Si del hecho resulta la muerte o gran incapacidad del damnificado directo por el accidente, pueden reclamar también este rubro, sus padres, hijos, cónyuge o convivientes.",
+    "imagen":"https://lucianapeisina.github.io/noticias/Accidente3.jpg"
+  },
+  {
+    "id":8,
+    "Tema":"Accidentes de transito",
+    "Titulo":"¿Quién tiene la culpa cuando hay un choque en un auto rentado?",
+    "Descripcion":"Se presume responsable de un accidente al que carecía de prioridad de paso o cometió una infracción relacionada con la causa del mismo, sin perjuicio de la responsabilidad que pueda corresponderles a los que, aun respetando las disposiciones, pudiendo haberlo evitado voluntariamente, no lo hicieron. ",
+    "imagen":"https://lucianapeisina.github.io/noticias/Accidente4.jpeg"
+  },
+  {
+    "id":9,
+    "Tema":"Derecho previsional",
+    "Titulo":"Fallo declara que las pensiones son un derecho inherente a las personas",
+    "Descripcion":"Como regla general se establece que el acceso a la pensión de jubilación se producirá cuando el interesado haya cumplido 67 años de edad, o 65 años cuando se acrediten 38 años y 6 meses de cotización. ",
+    "imagen":"https://lucianapeisina.github.io/noticias/Previsional3.jpg"
+  }
+  
+]
